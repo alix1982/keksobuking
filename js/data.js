@@ -37,5 +37,6 @@ const featuresObjOffer = [
   'elevator',
   'conditioner',
 ]
+const photoNumbers = [1, 2, 3, 4, 5, 6, 7, 8];
 
-export { titleObjOffer, descriptionObjOffer, typeObjOffer, checkObjOffer, photosObjOffer, featuresObjOffer }
+export { titleObjOffer, descriptionObjOffer, typeObjOffer, checkObjOffer, photosObjOffer, featuresObjOffer, photoNumbers }
